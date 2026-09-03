@@ -1,6 +1,6 @@
 # Tirocinio UNIVR – Acquisizione e Visualizzazione Dati Geografici
 
-## 📌 Descrizione del progetto
+## Descrizione del progetto
 Il progetto di tirocinio ha come obiettivo l’apprendimento del linguaggio Python e
 la sua integrazione con un database geografico a livello aziendale.
 
@@ -12,7 +12,7 @@ Il sistema implementato consente:
 
 ---
 
-## 🧱 Tecnologie utilizzate
+## Tecnologie utilizzate
 - Python
 - PostgreSQL
 - PostGIS
@@ -22,7 +22,7 @@ Il sistema implementato consente:
 
 ---
 
-## 🗄️ Struttura del database
+## Struttura del database
 Il database è strutturato in due tabelle principali:
 
 - **osservazioni**: memorizza i punti geografici acquisiti nel tempo
@@ -32,7 +32,7 @@ Le geometrie sono gestite tramite estensione PostGIS.
 
 ---
 
-## 🐍 Struttura del codice Python
+## Struttura del codice Python
 Il codice è suddiviso in moduli separati:
 - configurazione database
 - acquisizione dati
@@ -43,13 +43,13 @@ Questa organizzazione rende il progetto modulare e facilmente estendibile.
 
 ---
 
-## 🗺️ Visualizzazione
+## Visualizzazione
 Le traiettorie vengono esportate in formato GeoJSON e visualizzate su una mappa
 interattiva generata in HTML, primo passo verso una futura dashboard web.
 
 ---
 
-## 🎯 Obiettivi formativi raggiunti
+## Obiettivi formativi raggiunti
 - utilizzo di Python per applicazioni reali
 - integrazione Python–PostgreSQL
 - utilizzo di database geografici
