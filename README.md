@@ -1,4 +1,4 @@
-# Tirocinio UNIVR – Acquisizione e Visualizzazione Dati Geografici
+# Tirocinio UNIVR, Acquisizione e Visualizzazione Dati Geografici
 
 ## Descrizione del progetto
 Il progetto di tirocinio ha come obiettivo l’apprendimento del linguaggio Python e
